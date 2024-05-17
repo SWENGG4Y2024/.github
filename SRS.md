@@ -47,7 +47,7 @@ landscape of career opportunities and compensation
 
 
 ## 4.Implementation
-### 4.1 Methodology
+## 4.1 Methodology
 ### 4.1.1 Objective
 Clearly define the goals of the salary prediction system (e.g., predict future employee salaries based on various factors).
 ### 4.1.2 Scope
