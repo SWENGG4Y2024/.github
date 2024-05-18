@@ -52,7 +52,8 @@ landscape of career opportunities and compensation
 Clearly define the goals of the salary prediction system (e.g., predict future employee salaries based on various factors).
 ### 4.1.2 Scope
 Determine the extent of the project, including features, functionalities, data sources, and integration points.
-	###4.1.3 Feasible Methodologies
+### 4.1.3 Feasible Methodologies
+
 ### •	Data Collection
 The data was collected in form of a csv file provided by Stack Overflow in a survey i.e. Stack Overflow Developers Survey 2023. Collected relevant data for training and testing the model, including historical salary data, job descriptions, experience levels, education, and other related features. 
 ### •	Data Preprocessing
