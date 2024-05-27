@@ -43,7 +43,7 @@ landscape of career opportunities and compensation
 
 
 
- ## 3 Problem Statement / Requirement Specifications
+ ## 3. Problem Statement / Requirement Specifications
 
 In this chapter, we delve into the fundamental aspects of the "WORTHIFY.ME: Salary Predictor" project, starting with the problem statement and continuing through the planning, analysis, and design stages. 
 
