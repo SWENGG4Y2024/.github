@@ -180,6 +180,25 @@ Quality assurance is an ongoing process that includes regular project review and
 ### o	Quality assurance in the "WORTHIFY.ME: 
 Salary Predictor" project is not just a one-time effort but an integral part of project management and development. By adhering to these certifications and guidelines, the project maintains a high standard of quality, ensuring user data security, accurate salary predictions, and a seamless user experience. This concludes the section on quality assurance, which is fundamental in ensuring that the "WORTHIFY.ME: Salary Predictor" project operates at the highest level of excellence and reliability.
 
+## 5. Standards Adopted
+### 5.1 Design Standards
+ISO Standards: Detail the specific ISO (International Organization for Standardization)
+design standards followed within the project. These standards encompass
+recommended practices for project design, ensuring robustness and reliability in
+various aspects of development. IEEE Guidelines: The adherence to IEEE (Institute of Electrical and Electronics
+Engineers) guidelines, especially concerning software design, system architecture, and
+data handling. IEEE guidelines provide a framework for industry best practices, offering structured approaches to software and systems development. 
+
+## 5.2 Coding Standards
+
+### Efficient Code Practices:
+These include guidelines for efficient code writing, appropriate naming conventions, and modularity to enhance readability and maintainability. 
+
+### Version Control:
+Used version control systems like Git, followed by versioning, branching, and merging of code. This ensures the integrity and traceability of code changes. 
+
+### Code Review Process: 
+Code reviews ensure that quality standards and best practices are maintained throughout the development
 
 
 ## 6. Conclusion and Future Scope
