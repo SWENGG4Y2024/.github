@@ -2,8 +2,8 @@
 
 ## Table of Contents
 -  [1. Introduction](#1-introduction)
+- [3. Problem Statement / Requirement Specifications](#3. Problem Statement / Requirement Specifications)
     
-
 ## 1. Introduction 
 
 In today's dynamic and rapidly evolving job market, the need for accurate and up-to-date information on salary expectations has never been more critical. Job seekers, career changers, and employers alike rely on precise salary predictions to make
@@ -41,54 +41,6 @@ to the Explore function that provides a broader view of salary trends, this proj
 holds the potential to redefine how professionals navigate the ever-evolving
 landscape of career opportunities and compensation
 
-## 2. Basic Concepts/ Literature Review
-In this chapter, we explore the essential concepts and related tools and
-techniques that underpin the "WORTHIFY.ME: Salary Predictor" project. It is
-vital to grasp these fundamental principles to comprehend the project thoroughly
-and appreciate the value it offers to users. 
-
-## 2.1 Data Collection and Processing
-The cornerstone of the "WORTHIFY.ME" project is data. The process of collecting, preparing, and processing data is fundamental to the project's success. The primary
-data source for this project is the Stack Overflow Developers Survey 2023, a widely
-recognized and comprehensive survey in the software development field. To ensure
-the quality and relevance of the data, we employed a meticulous data collection
-process. We extracted and cleaned the data to eliminate inconsistencies, inaccuracies, and incomplete records. This data preparation phase was critical to
-ensuring that the project's predictions and insights are based on high-quality, reliable information. 
-
-## 2.2 Machine Learning Algorithms for Salary Prediction
-The "Predict" function of the project relies on machine learning algorithms to
-generate accurate salary predictions. These algorithms are essential to understand as
-they form the backbone of the salary prediction system. Commonly used algorithms
-include regression models, decision trees, and neural networks. These algorithms
-analyze the input parameters, such as country of work, education level, and years of
-experience, to predict salaries effectively. A deep understanding of these algorithms
-is crucial to gauge the accuracy and reliability of the salary predictions provided by
-the "WORTHIFY.ME" system.
-
-
-## 2.3 Data Visualization Techniques
-The "Explore" function of the project offers a visual representation of salary trends. Understanding data visualization techniques is key to comprehending the project's "Explore" feature. The project employs pie charts to display mean salary
-distributions by countries, bar graphs to represent mean salaries by country, and line
-graphs to showcase the relationship between years of experience and salary. These
-visualizations make it easier for users to interpret and gain insights from the data
-collected from the Stack Overflow Developers Survey. 
-
-## 2.4 User Interface Design
-User interface design is essential to ensure the project's accessibility and usability. The "WORTHIFY.ME" project places a strong emphasis on user experience, and
-understanding the principles of user interface design is crucial. This sub-section
-discusses usability, accessibility, and user experience (UX) design concepts applied
-in the project. A well-designed user interface enhances the user's experience when
-interacting with the "Predict" and "Explore" functions, making the project more
-user-friendly. 
-
-## 2.5 Stack Overflow Developers Survey 2023
-The data used in the "Explore" function is sourced from the Stack Overflow
-Developers Survey 2023. This sub-section provides an overview of this data source, including the survey's objectives, sample size, and the types of data collected. Understanding the context and source of this data is vital for interpreting the salary
-trends presented in the project. These fundamental concepts and techniques form the basis of the
-"WORTHIFY.ME: Salary Predictor" project and are essential for comprehending
-the subsequent chapters that delve into project development, testing, and analysis. Please let me know if you'd like to proceed with the content for the next chapter or
-if you have any specific preferences or modifications for the sections outlined
-above.
 
 
  ## 3. Problem Statement / Requirement Specifications
