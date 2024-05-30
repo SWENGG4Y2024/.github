@@ -2,7 +2,8 @@
 
 ## Table of Contents
 -  [1. Introduction](#1-introduction)
-    
+-  [2. Basic Concepts/ Literature Review ](#2-Basic-Concept)
+
 
 ## 1. Introduction 
 
@@ -41,7 +42,7 @@ to the Explore function that provides a broader view of salary trends, this proj
 holds the potential to redefine how professionals navigate the ever-evolving
 landscape of career opportunities and compensation
 
-## 2. Basic Concepts/ Literature Review
+## **2. Basic Concepts/ Literature Review **
 In this chapter, we explore the essential concepts and related tools and
 techniques that underpin the "WORTHIFY.ME: Salary Predictor" project. It is
 vital to grasp these fundamental principles to comprehend the project thoroughly
