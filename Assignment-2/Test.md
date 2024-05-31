@@ -59,7 +59,7 @@ The model is deployed as a RESTful API, allowing integration with various applic
 - Kubernetes for orchestration and scaling.
  
 #### 6.2 Monitoring and Maintenance
-post-deployment, the model is continuously monitored for performance. Maintenance activities include:
+Post-deployment, the model is continuously monitored for performance. Maintenance activities include:
 - Periodic retraining with new data
 - Performance monitoring and anomaly detection
 - Updating the model to address changes in the job market.
