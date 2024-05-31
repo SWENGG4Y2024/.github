@@ -1,5 +1,4 @@
-# *******************C4 MODEL***************************
-
+# C4 MODEL
 ## We are utilizing the C4 MODEL to represent architecture involves:
 
 Employing hierarchical abstractions (software systems, containers, components, and code).
