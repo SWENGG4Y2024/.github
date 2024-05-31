@@ -2,10 +2,6 @@
 
 [1. Project Sponsors and Clients](#1-ProjectSponsorsandClients)
 
-- [2. Basic Concepts](#2-Basic-Concepts)
-    -  [2.1 Data Collection and Processing](#21-Data-Collection-and-Processing)
-    -  [2.2 Machine Learning Algorithms for Salary Prediction](#22-Machine-Learning-Algorithms-for-Salary-Prediction)
-    -  [2.3 Data Visualization Techniques](#23-Data-Visualization-Techniques)
 
 
 ## 1. Project Sponsors and Clients
