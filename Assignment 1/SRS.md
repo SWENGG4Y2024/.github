@@ -155,7 +155,7 @@ if you have any specific preferences or modifications for the sections outlined
 above.
 
 
- ## ** 3. Problem Statement **
+ ##  3. Problem Statement
 
 In this chapter, we delve into the fundamental aspects of the "WORTHIFY.ME: Salary Predictor" project, starting with the problem statement and continuing through the planning, analysis, and design stages. 
 
