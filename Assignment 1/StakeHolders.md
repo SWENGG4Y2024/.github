@@ -1,6 +1,6 @@
 # Stakeholder Analysis for the "WORTHIFY.ME: Salary Predictor" Project
 
-[1. Project Sponsors and Clients](#1-Project_Sponsors_and_Clients)
+[1. Project Sponsors and Clients](#1-ProjectSponsorsandClients)
 
 - [2. Basic Concepts](#2-Basic-Concepts)
     -  [2.1 Data Collection and Processing](#21-Data-Collection-and-Processing)
