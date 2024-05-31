@@ -11,16 +11,16 @@
     -  [2.4 User Interface Design](#24-User-Interface-Design)
     -  [2.5 Stack Overflow Developers Survey 2023](#25-Stack-Overflow-Developers-Survey-2023)
     
--  [3. Problem Statement / Requirement Specifications](#3-Problem-Statement-/-Requirement-Specifications)
+-  [3. Problem Statement](#3-Problem-Statement)
     -  [3.1 Project Planning](#3-Project-Planning)
     -  [3.2 Project Analysis](#3-Project-Analysis)
     -  [3.3 System Design](#3-System-Design)
-        -  [3.3.1 Design Constraints Software Selection](#31-Design-Constraints-Software-Selection:)
-        -  [3.3.2 Data Source Reliability](#32-Data-Source-Reliability:)
-        -  [3.3.3 Hardware Resources](#33-Hardware-Resources:)
-        -  [3.3.4 Environmental Setup](#34-Environmental-Setup:)
+        -  [3.3.1 Design Constraints Software Selection](#31-Design-Constraints-Software-Selection)
+        -  [3.3.2 Data Source Reliability](#32-Data-Source-Reliability)
+        -  [3.3.3 Hardware Resources](#33-Hardware-Resources)
+        -  [3.3.4 Environmental Setup](#34-Environmental-Setup)
         -  [3.3.5 Scalability](#35-Scalability)
-        -  [3.3.6 Compliance with Data Regulations:](#36-Compliance-with-Data-Regulations:)
+        -  [3.3.6 Compliance with Data Regulations:](#36-Compliance-with-Data-Regulations)
 
 -   [4. Implementation](#4-Implementation)
     -  [4.1 Methodology](#4-Methodology)
@@ -155,7 +155,7 @@ if you have any specific preferences or modifications for the sections outlined
 above.
 
 
- ## ** 3. Problem Statement / Requirement Specifications **
+ ## ** 3. Problem Statement **
 
 In this chapter, we delve into the fundamental aspects of the "WORTHIFY.ME: Salary Predictor" project, starting with the problem statement and continuing through the planning, analysis, and design stages. 
 
@@ -169,25 +169,25 @@ In the project analysis phase, we conducted an in-depth scrutiny of the initial 
 
 ### ** 3.3 System Design **
 
-#### ** 3.3.1  Design Constraints Software Selection: ** 
+#### ** 3.3.1  Design Constraints Software Selection ** 
 The project must adhere to constraints related to software tools and technologies. The selection of programming languages, data analysis libraries, and machine learning frameworks is essential. The constraints related to software choice ensure compatibility, data processing capabilities, and the ability to implement machine learning algorithms effectively.
 
 
-#### ** 3.3.2 Data Source Reliability: **
+#### ** 3.3.2 Data Source Reliability**
 The project heavily relies on data collected from the Stack Overflow Developers Survey 2023. A major design constraint is the reliability and quality of this data source. Data inconsistencies or inaccuracies must be addressed through rigorous data cleaning and preprocessing to maintain the project's credibility.
 
 
-#### ** 3.3.3 Hardware Resources: **
+#### ** 3.3.3 Hardware Resources**
 The project must operate within constraints related to hardware resources. The selection of hardware components, server infrastructure, and computational resources is crucial. Adequate hardware resources are necessary to handle data processing, machine learning, and user interactions efficiently.
 
 
 #### ** 3.3.4 Environmental Setup: **
 The project's design constraints extend to the environmental setup. Any specific requirements for the development or deployment environment, such as server configurations or development platforms, must be considered. Data Privacy and Security: Data privacy and security are paramount constraints. The project must adhere to legal and ethical standards for handling and storing user data. Appropriate measures must be in place to protect user privacy and sensitive information. User Interface Compatibility: Design constraints also extend to the user interface. The project's user interface design must be compatible with a range of devices and screen sizes, ensuring that users can access and interact with the "Predict" and "Explore" functions on various platforms.
 
-#### ** 3.3.5 Scalability: ** 
+#### ** 3.3.5 Scalability** 
 As the project may experience varying levels of user engagement, scalability is a critical constraint. The system is designed to accommodate a growing user base and increasing data volumes without compromising performance. 
 
-#### ** 3.3.6 Compliance with Data Regulations: **
+#### ** 3.3.6 Compliance with Data Regulations**
 The project adheres to data regulations and standards, such as GDPR (General Data Protection Regulation) or any applicable local data privacy laws. This constraint ensures that user data is handled responsibly and legally.
 
 
