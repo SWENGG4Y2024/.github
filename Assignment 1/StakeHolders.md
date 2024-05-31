@@ -4,14 +4,14 @@
 
 - [1. Project Sponsors and Clients](#1-Project-Sponsors-and-Clients)
 - [2. Project Manager](#2-Project-Manager)
--[3. Development Team](#3-Development-Team)
--[4. End Users](#4-End-Users)
--[5. Data Providers](#5-Data-Providers)
--[6. Product Owners](#6-Product-Owners)
--[7. Business Analyst](#7-Business-Analyst)
--[8. Quality Assurance (QA) Team](#8-Quality-Assurance-(QA)-Team)
--[9. Operations and IT Support](#9-Operations-and-IT-Support)
--[10. IEEE Guidelines](#10-IEEE-Guidelines)
+- [3. Development Team](#3-Development-Team)
+- [4. End Users](#4-End-Users)
+- [5. Data Providers](#5-Data-Providers)
+- [6. Product Owners](#6-Product-Owners)
+- [7. Business Analyst](#7-Business-Analyst)
+- [8. Quality Assurance (QA) Team](#8-Quality-Assurance-(QA)-Team)
+- [9. Operations and IT Support](#9-Operations-and-IT-Support)
+- [10. IEEE Guidelines](#10-IEEE-Guidelines)
 
 
 
