@@ -2,6 +2,7 @@
 
 ## 1. Introduction
 
+
 ### 1.1 Purpose
 The purpose of this document is to outline the user requirements for the "Worthify.me" project. This project aims to develop a salary prediction and data exploration tool to assist job seekers in understanding their market value and exploring salary trends across different factors.
 
