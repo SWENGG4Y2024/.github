@@ -1,0 +1,29 @@
+@startuml
+ 
+
+package "WORTHIFY.ME: Salary Predictor" {
+    package "Web Container" <<WebContainer>> {
+        [Web Server] as WebServer
+        [Web Browser] as Browser
+    }
+    package "Application Container" <<AppContainer>> {
+        [Application Server] as AppServer
+        [Machine Learning Server] as MLServer
+    }
+    package "Data Container" <<DataContainer>> {
+        [Data Processing Server] as DataServer
+    }
+    package "Database Container" <<DatabaseContainer>> {
+        [Database Server] as DatabaseServer
+    }
+    Browser -up-> WebServer : HTTP Request
+    WebServer -up-> AppServer : Forwards Request
+    AppServer -up-> DataServer : Requests Data
+    AppServer -up-> MLServer : Requests Prediction
+    DatabaseServer -up-> DataServer : Retrieves Data
+    DatabaseServer  -up-> MLServer : Retrieves Data
+    MLServer -down-> AppServer : Sends Prediction
+    AppServer -down-> WebServer : Returns Prediction
+    WebServer -down-> Browser : HTTP Response
+}
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+actor User as U
+actor "Stack Overflow Developers Survey 2023" as Survey
+actor "Job Search Platforms" as JobPlatforms
+ 
+rectangle "WORTHIFY.ME: Salary Predictor" as System {
+    usecase "Predict Salary" as Predict
+    usecase "Explore Salary Trends" as Explore
+    usecase "Data Collection" as DataCollection
+}
+ 
+U -> System : Interacts with
+Predict <- U : Uses Predict Function
+Explore <- U : Uses Explore Function
+System -> Survey : Retrieves Data from
+System -> JobPlatforms : Integrates with
+@enduml
