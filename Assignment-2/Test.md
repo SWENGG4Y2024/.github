@@ -74,7 +74,7 @@ The scope of this document covers the following aspects:
 - **Expected Result:** Application functions correctly and performs consistently across different operating systems.
 
 ### 7. Data Collection and Preprocessing
- #### 7.1 Data Sources
+ ### 7.1 Data Sources
 The dataset used for the salary prediction model is sourced from publicly available job market data, company salary reports, and online job portals. Key attributes include:
 - Years of Experience
 - Education Level
@@ -83,20 +83,20 @@ The dataset used for the salary prediction model is sourced from publicly availa
 - Industry
 - Skills
 
-#### 7.2 Data Cleaning
+### 7.2 Data Cleaning
 Data cleaning involves handling missing values, correcting inconsistencies, and normalizing data. Steps taken include:
 - Imputing missing values using median/mode
 - Standardizing job titles
 - Normalizing salary data to a common currency and scale. 
 
-#### 7.3 Data Transformation
+### 7.3 Data Transformation
 Transformations applied to the dataset include:
 - Encoding categorical variables (e.g., job titles, education levels)
 - Feature scaling (e.g., normalizing years of experience)
 - Creating new features (e.g., interaction terms between education level and job role. 
 
 ### 8. Model Selection and Training 
-#### 8.1 Model Selection
+### 8.1 Model Selection
 Several machine learning models were considered, including:
 - Linear Regression
 - Decision Trees
@@ -104,20 +104,20 @@ Several machine learning models were considered, including:
 - Gradient Boosting Machines
 - Neural Network
 
-#### 8.2 Training Process
+### 8.2 Training Process
 The training process involves:
 - Splitting data into training, validation, and test sets.
 - Hyperparameter tuning using grid search and cross-validation
 - Training the final model on the combined training and validation sets.
  
 ### 9. Model Deployment 
-#### 9.1 Deployment Strategy
+### 9.1 Deployment Strategy
 The model is deployed as a RESTful API, allowing integration with various applications and platforms. The deployment stack includes:
 - Flask/Django for the API framework
 - Docker for containerization
 - Kubernetes for orchestration and scaling.
  
-#### 9.2 Monitoring and Maintenance
+### 9.2 Monitoring and Maintenance
 Post-deployment, the model is continuously monitored for performance. Maintenance activities include:
 - Periodic retraining with new data
 - Performance monitoring and anomaly detection
