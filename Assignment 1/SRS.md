@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [1. Introduction](#1-Introduction)
+- [1. Introduction](#1-introduction)
 
 - [2. Basic Concepts](#2-Basic-Concepts)
     -  [2.1 Data Collection and Processing](#21-Data-Collection-and-Processing)
@@ -68,7 +68,7 @@
 
     
 
-## 1. ** Introduction **
+## 1. Introduction
 
 In today's dynamic and rapidly evolving job market, the need for accurate and up-to-date information on salary expectations has never been more critical. Job seekers, career changers, and employers alike rely on precise salary predictions to make
 informed decisions. The "WORTHIFY.ME" project emerges as a solution to
@@ -155,39 +155,39 @@ if you have any specific preferences or modifications for the sections outlined
 above.
 
 
- ## 3. ** Problem Statement / Requirement Specifications **
+ ## ** 3. Problem Statement / Requirement Specifications **
 
 In this chapter, we delve into the fundamental aspects of the "WORTHIFY.ME: Salary Predictor" project, starting with the problem statement and continuing through the planning, analysis, and design stages. 
 
-### 3.1 ** Project Planning **
+### ** 3.1 Project Planning **
 
 The "Project Planning" phase serves as the cornerstone of the "WORTHIFY.ME" project, providing a meticulous and well-structured roadmap for development. It is within this phase that we meticulously delineated the essential steps and requirements needed to bring this project to fruition. The backbone of our project planning lies in the formulation of a detailed list of user requirements and features that are critical to the system's functionality. This list, in essence, serves as the blueprint for our project, guiding each subsequent stage of development. We planned to implement two sections in our project i.e. Predict and Explore. The predict section is used to predict the salary of an individual based on several parameters and developed using Machine Learning algorithms. Explore section complements the Predict functionality of the "WORTHIFY.ME: Salary Predictor" project by providing users with valuable insights and analysis of salary trends, empowering them to make informed decisions in their professional endeavors.
 
-### 3.2 ** Project Analysis **
+### **3.2 Project Analysis **
 In the project analysis phase, we conducted an in-depth scrutiny of the initial requirements and problem statement. This comprehensive examination aimed to identify and resolve ambiguities, errors, or inconsistencies in the project specifications. Ensuring clarity and precision in the requirements was of utmost importance, as any ambiguities could lead to misinterpretations and misalignments in the final product. Through a rigorous analysis, we refined and clarified the requirements, ensuring that the project's scope was well-defined. This analysis stage laid the groundwork for a successful project implementation by addressing any uncertainties or ambiguities in the project specifications.
 
 
-### 3.3 ** System Design **
+### ** 3.3 System Design **
 
-#### 3.3.1 ** Design Constraints Software Selection: ** 
+#### ** 3.3.1  Design Constraints Software Selection: ** 
 The project must adhere to constraints related to software tools and technologies. The selection of programming languages, data analysis libraries, and machine learning frameworks is essential. The constraints related to software choice ensure compatibility, data processing capabilities, and the ability to implement machine learning algorithms effectively.
 
 
-#### 3.3.2 ** Data Source Reliability: **
+#### ** 3.3.2 Data Source Reliability: **
 The project heavily relies on data collected from the Stack Overflow Developers Survey 2023. A major design constraint is the reliability and quality of this data source. Data inconsistencies or inaccuracies must be addressed through rigorous data cleaning and preprocessing to maintain the project's credibility.
 
 
-#### 3.3.3 ** Hardware Resources: **
+#### ** 3.3.3 Hardware Resources: **
 The project must operate within constraints related to hardware resources. The selection of hardware components, server infrastructure, and computational resources is crucial. Adequate hardware resources are necessary to handle data processing, machine learning, and user interactions efficiently.
 
 
-#### 3.3.4 ** Environmental Setup: **
+#### ** 3.3.4 Environmental Setup: **
 The project's design constraints extend to the environmental setup. Any specific requirements for the development or deployment environment, such as server configurations or development platforms, must be considered. Data Privacy and Security: Data privacy and security are paramount constraints. The project must adhere to legal and ethical standards for handling and storing user data. Appropriate measures must be in place to protect user privacy and sensitive information. User Interface Compatibility: Design constraints also extend to the user interface. The project's user interface design must be compatible with a range of devices and screen sizes, ensuring that users can access and interact with the "Predict" and "Explore" functions on various platforms.
 
-#### 3.3.5 ** Scalability: ** 
+#### ** 3.3.5 Scalability: ** 
 As the project may experience varying levels of user engagement, scalability is a critical constraint. The system is designed to accommodate a growing user base and increasing data volumes without compromising performance. 
 
-#### 3.3.6 ** Compliance with Data Regulations: **
+#### ** 3.3.6 Compliance with Data Regulations: **
 The project adheres to data regulations and standards, such as GDPR (General Data Protection Regulation) or any applicable local data privacy laws. This constraint ensures that user data is handled responsibly and legally.
 
 
@@ -309,7 +309,7 @@ Quality assurance is an ongoing process that includes regular project review and
 ##### o	Quality assurance in the "WORTHIFY.ME: 
 Salary Predictor" project is not just a one-time effort but an integral part of project management and development. By adhering to these certifications and guidelines, the project maintains a high standard of quality, ensuring user data security, accurate salary predictions, and a seamless user experience. This concludes the section on quality assurance, which is fundamental in ensuring that the "WORTHIFY.ME: Salary Predictor" project operates at the highest level of excellence and reliability.
 
-## 5. ** Standards Adopted**
+## ** 5. Standards Adopted**
 
 ### 5.1 ** Design Standards**
 ISO Standards: Detail the specific ISO (International Organization for Standardization)
@@ -331,7 +331,7 @@ Used version control systems like Git, followed by versioning, branching, and me
 Code reviews ensure that quality standards and best practices are maintained throughout the development
 
 
-## 6. ** Conclusion and Future Scope**
+## ** 6. Conclusion and Future Scope**
 In this concluding chapter, we summarize the key findings, achievements, and future prospects of the "WORTHIFY.ME: Salary Predictor" project. We reflect on the journey from inception to implementation and explore the exciting possibilities that lie ahead. 
 
 ### 6.1 ** Conclusion**
