@@ -2,35 +2,35 @@
 
 ## Table of Content
 
-[1. Introduction](#1-introduction)
+- [1. Introduction](#1-introduction)
     - [1.1 Purpose](#11-purpose)
     - [1.2 Scope ](#12-Scope)
     - [1.3 Definitions, Acronyms, and Abbreviations](#13-scope)
     - [1.4 References](#14-References)
     
-[2.User Requirements](#2-User-Requirements)
+- [2.User Requirements](#2-User-Requirements)
     - [2.1 User Classes and Characteristics](#21-User-Classes-and-Characteristics)
     - [2.2 User Needs ](#12-User-Needs)
     - [2.3 Functional Requirements](#13-Functional-Requirements)
     - [2.4 Non-Functional Requirements](#14-Non-Functional-Requirements)
     - [2.5 Constraints](#15-Constraints)
     
-[3.Use Cases](#2-Use-Cases)
+- [3.Use Cases](#2-Use-Cases)
     - [2.1 Use Case Diagram](#31-Use-Case-Diagram)
     - [2.2 Use Case Descriptions ](#32-Use-Case-Descriptions)
 
-[4.Data Requirements](#4-Data-Requirements)
+- [4.Data Requirements](#4-Data-Requirements)
     - [4.1 Data Sources](#41-Data-Sources)
     - [4.2 Data Processing ](#42-Data-Processing)
     - [4.3 Data Storage](#43-Data-Storage)
 
-[5.User Interface Requirements](#5-User-Interface-Requirements)
+- [5.User Interface Requirements](#5-User-Interface-Requirements)
 
-[6.System Architecture](#6-System-Architecture)
+- [6.System Architecture](#6-System-Architecture)
 
-[7.Assumptions and Dependencies](#7-Assumptions-and-Dependencies)
+- [7.Assumptions and Dependencies](#7-Assumptions-and-Dependencies)
 
-[8.Appendices](#8-Appendices)
+- [8.Appendices](#8-Appendices)
   
   
 
