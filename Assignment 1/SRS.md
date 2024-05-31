@@ -68,7 +68,7 @@
 
     
 
-## 1. **Introduction **
+## 1. **Introduction**
 
 In today's dynamic and rapidly evolving job market, the need for accurate and up-to-date information on salary expectations has never been more critical. Job seekers, career changers, and employers alike rely on precise salary predictions to make
 informed decisions. The "WORTHIFY.ME" project emerges as a solution to
