@@ -109,19 +109,7 @@ The training process involves:
 - Splitting data into training, validation, and test sets.
 - Hyperparameter tuning using grid search and cross-validation
 - Training the final model on the combined training and validation sets.
+
  
-### 9. Model Deployment 
-### 9.1 Deployment Strategy
-The model is deployed as a RESTful API, allowing integration with various applications and platforms. The deployment stack includes:
-- Flask/Django for the API framework
-- Docker for containerization
-- Kubernetes for orchestration and scaling.
- 
-### 9.2 Monitoring and Maintenance
-Post-deployment, the model is continuously monitored for performance. Maintenance activities include:
-- Periodic retraining with new data
-- Performance monitoring and anomaly detection
-- Updating the model to address changes in the job market.
- 
-### 10. Conclusion
+### 9. Conclusion
 This document provides a comprehensive overview of the "WORTHIFY.ME" salary prediction model developed in line with IEEE standards. Adhering to these standards ensures the reliability, validity, and ethical integrity of the predictive model.
