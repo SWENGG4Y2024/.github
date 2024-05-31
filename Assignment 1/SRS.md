@@ -1,11 +1,12 @@
 # Software Requirement Specification
 
 ## Table of Contents
--  [1. Introduction](#1-introduction)
--  [2. Basic Concepts ](#2-Basic-Concept)
+-  ## Table of Contents
+- [1. Introduction](#1-Introduction)
+- [2. Basic Concepts](#2-Basic-Concepts)
+    
 
-
-## 1. Introduction 
+## 1. **Introduction **
 
 In today's dynamic and rapidly evolving job market, the need for accurate and up-to-date information on salary expectations has never been more critical. Job seekers, career changers, and employers alike rely on precise salary predictions to make
 informed decisions. The "WORTHIFY.ME" project emerges as a solution to
@@ -42,7 +43,7 @@ to the Explore function that provides a broader view of salary trends, this proj
 holds the potential to redefine how professionals navigate the ever-evolving
 landscape of career opportunities and compensation
 
-## 2. Basic Concepts
+## 2. **Basic Concepts**
 In this chapter, we explore the essential concepts and related tools and
 techniques that underpin the "WORTHIFY.ME: Salary Predictor" project. It is
 vital to grasp these fundamental principles to comprehend the project thoroughly
