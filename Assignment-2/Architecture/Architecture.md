@@ -1,4 +1,6 @@
-We are utilizing the C4 MODEL to represent architecture involves:
+# *******************C4 MODEL***************************
+
+## We are utilizing the C4 MODEL to represent architecture involves:
 
 Employing hierarchical abstractions (software systems, containers, components, and code).
 Employing hierarchical diagrams (system context, containers, components, and code).
@@ -11,7 +13,7 @@ The C4 MODEL prioritizes abstraction in depicting software architecture, alignin
 
 
 
-CONTAINER DIAGRAM
+## CONTAINER DIAGRAM
 
 This UML diagram represents the architecture of the "WORTHIFY.ME: Salary Predictor" system using containers to show how different parts of the system interact with each other. Here’s an explanation of each component and their relationships:
  
@@ -67,7 +69,7 @@ This diagram illustrates the modular structure of the "WORTHIFY.ME: Salary Predi
 
 
 
-CONTEXT DIAGRAM
+## CONTEXT DIAGRAM
 
 This UML diagram represents the interaction and flow of data within a system named "WORTHIFY.ME: Salary Predictor." Here’s an explanation of each component and their relationships:
  
