@@ -2,8 +2,8 @@
 
 ## Table of Content
 
--[1. Project Sponsors and Clients](#1-Project-Sponsors-and-Clients)/n
--[2. Project Manager](#2-Project-Manager)
+- [1. Project Sponsors and Clients](#1-Project-Sponsors-and-Clients)
+- [2. Project Manager](#2-Project-Manager)
 -[3. Development Team](#3-Development-Team)
 -[4. End Users](#4-End-Users)
 -[5. Data Providers](#5-Data-Providers)
