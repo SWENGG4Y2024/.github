@@ -36,6 +36,8 @@ Their interest lies in leveraging their technical skills to create a robust and 
 ### Description: 
 End users include job seekers, career changers, employers, and HR professionals who utilize the "WORTHIFY.ME" platform for salary predictions and trend analysis.
 
+## Chart of End Users for "WORTHIFY.ME" Platform
+
 # Chart of End Users for "WORTHIFY.ME" Platform
 
 | **User Type**         | **Description**                                                                 | **Primary Use Cases**                                      |
@@ -44,6 +46,39 @@ End users include job seekers, career changers, employers, and HR professionals 
 | **Career Changers**   | Professionals looking to switch career paths or industries.                     | - Assess potential salary in a new industry or role.<br>- Analyze how education and experience transfer to new career paths.<br>- Make informed decisions about career transitions.  |
 | **Employers**         | Organizations and companies hiring new employees.                               | - Set competitive salary offers to attract top talent.<br>- Benchmark salaries against industry standards.<br>- Plan budget for new hires based on predicted salaries.                |
 | **HR Professionals**  | Human Resources staff responsible for recruitment and compensation management.  | - Conduct salary surveys and analysis.<br>- Develop compensation strategies.<br>- Ensure fair and competitive salary structures within the organization.                       |
+
+## Detailed User Characteristics and Requirements
+
+### Job Seekers
+- **Characteristics**: Varying levels of experience, education, and geographical location.
+- **Requirements**:
+  - Easy-to-use interface for inputting personal data.
+  - Accurate salary predictions based on individual profiles.
+  - Visualization tools to compare salaries across different parameters.
+
+### Career Changers
+- **Characteristics**: Professionals with established careers seeking new opportunities.
+- **Requirements**:
+  - Tools to evaluate how current skills and experiences affect potential salaries in new fields.
+  - Insight into education requirements and their impact on salary.
+  - Salary trend analysis for new career paths.
+
+### Employers
+- **Characteristics**: Companies of various sizes and industries.
+- **Requirements**:
+  - Ability to input job roles and requirements to get salary benchmarks.
+  - Insights into market salary trends to remain competitive.
+  - Features to compare salaries with industry standards and competitors.
+
+### HR Professionals
+- **Characteristics**: Specialists in recruitment, employee compensation, and benefits management.
+- **Requirements**:
+  - Comprehensive data on salary trends and predictions for workforce planning.
+  - Tools for conducting detailed salary analyses and creating compensation packages.
+  - Access to historical salary data for trend analysis and strategic planning.
+
+## Summary
+Each user type has unique requirements and use cases for the "WORTHIFY.ME" platform, necessitating features that cater to job prediction, trend analysis, and comparison. The SRS should address these diverse needs to ensure the platform is comprehensive and user-friendly for all end users.
 
 ## Detailed User Characteristics and Requirements
 
