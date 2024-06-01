@@ -38,8 +38,6 @@ End users include job seekers, employers, and HR professionals who utilize the "
 
 ## Chart of End Users for "WORTHIFY.ME" Platform
 
-# Chart of End Users for "WORTHIFY.ME" Platform
-
 | **User Type**         | **Description**                                                                 | **Primary Use Cases**                                      |
 |-----------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
 | **Job Seekers**       | Individuals actively looking for new job opportunities.                         | - Predict expected salary for desired job roles.<br>- Compare salary offers from different employers.<br>- Understand salary trends based on location, experience, and education. |
