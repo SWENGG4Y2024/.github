@@ -187,7 +187,7 @@ The project's design constraints extend to the environmental setup. Any specific
 #### 3.3.5 Scalability
 As the project may experience varying levels of user engagement, scalability is a critical constraint. The system is designed to accommodate a growing user base and increasing data volumes without compromising performance. 
 
-#### ** 3.3.6 Compliance with Data Regulations**
+####  3.3.6 Compliance with Data Regulations
 The project adheres to data regulations and standards, such as GDPR (General Data Protection Regulation) or any applicable local data privacy laws. This constraint ensures that user data is handled responsibly and legally.
 
 
