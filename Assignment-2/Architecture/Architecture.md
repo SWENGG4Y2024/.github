@@ -66,6 +66,7 @@ This UML diagram represents the architecture of the "WORTHIFY.ME: Salary Predict
 This diagram illustrates the modular structure of the "WORTHIFY.ME: Salary Predictor" system, showing how different servers and components work together to provide the desired functionality.
 
 
+![MicrosoftTeams-image (34)](https://github.com/SWENGG4Y2024/SWENGG4Y2024_Team9/assets/63072170/ef67410c-85ab-45ed-99a1-853b19fc3623)
 
 
 ## CONTEXT DIAGRAM
@@ -108,6 +109,9 @@ This UML diagram represents the interaction and flow of data within a system nam
 - The user accesses these functionalities directly through the WORTHIFY.ME system.
  
 This diagram illustrates how the WORTHIFY.ME system functions as a bridge between the user and external data sources to provide valuable insights regarding salaries.
+
+![MicrosoftTeams-image (35)](https://github.com/SWENGG4Y2024/SWENGG4Y2024_Team9/assets/63072170/18d4d493-576a-4005-b11d-83b519808076)
+
 
 
 
