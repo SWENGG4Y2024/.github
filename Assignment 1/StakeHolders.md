@@ -9,7 +9,6 @@
 - [5. Product Owners](#6-Product-Owners)
 - [6. Quality Assurance (QA) Team](#7-Quality-Assurance-(QA)-Team)
 - [7. Operations and IT Support](#8-Operations-and-IT-Support)
-- [8. IEEE Guidelines](#9-IEEE-Guidelines)
 
 
 
@@ -75,6 +74,3 @@ Their interest lies in ensuring the platform operates smoothly and efficiently. 
 
 This comprehensive stakeholder analysis highlights the various individuals and groups involved in the "WORTHIFY.ME: Salary Predictor" project, their roles, and their interests. Each stakeholder plays a critical role in ensuring the project's success and the delivery of a valuable, high-quality product.
 
-
-## 8. IEEE Guidelines
-The adherence to IEEE (Institute of Electrical and Electronics Engineers) guidelines, especially concerning software design, system architecture, and data handling. IEEE guidelines provide a framework for industry best practices, offering structured approaches to software and systems develop
