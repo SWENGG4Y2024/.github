@@ -95,9 +95,9 @@ This UML diagram represents the interaction and flow of data within a system nam
 1. User to WORTHIFY.ME: Salary Predictor:
    - The user interacts with the system.
    - The user can utilize the "Predict Salary" function and the "Explore Salary Trends" function.
-2. WORTHIFY.ME: Salary Predictor to External Data Sources**:
+2. WORTHIFY.ME: Salary Predictor to External Data Sources:
    - The system retrieves data from external sources to provide accurate predictions and trends.
-   - Stack Overflow Developers Survey 2023**: Data is collected from this survey.
+   - Stack Overflow Developers Survey 2023: Data is collected from this survey.
    - Job Search Platforms: Data is also collected from various job search platforms.
  
 3. Internal Interactions within WORTHIFY.ME: Salary Predictor:
