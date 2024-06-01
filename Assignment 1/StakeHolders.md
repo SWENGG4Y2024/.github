@@ -8,10 +8,9 @@
 - [4. End Users](#4-End-Users)
 - [5. Data Providers](#5-Data-Providers)
 - [6. Product Owners](#6-Product-Owners)
-- [7. Business Analyst](#7-Business-Analyst)
-- [8. Quality Assurance (QA) Team](#8-Quality-Assurance-(QA)-Team)
-- [9. Operations and IT Support](#9-Operations-and-IT-Support)
-- [10. IEEE Guidelines](#10-IEEE-Guidelines)
+- [7. Quality Assurance (QA) Team](#7-Quality-Assurance-(QA)-Team)
+- [8. Operations and IT Support](#8-Operations-and-IT-Support)
+- [9. IEEE Guidelines](#9-IEEE-Guidelines)
 
 
 
@@ -66,15 +65,8 @@ Product owners are responsible for defining the vision of the "WORTHIFY.ME" plat
 ### Interest: 
 Product owners are interested in delivering a product that meets market needs and exceeds user expectations. They aim to prioritize features that provide the most value and ensure the project aligns with business strategies and user demands.
 
-## 7. Business Analyst
 
-### Description:  
-The business analyst analyzes market trends, user requirements, and project data to provide insights that guide the project's development. They ensure the platform addresses real user problems and aligns with business objectives.
-
-### Interest:  
-Their interest lies in accurately capturing and translating user needs into technical requirements. They aim to identify market opportunities, reduce risks, and ensure that the platform provides valuable insights to its users.
-
-## 8.Quality Assurance (QA) Team
+## 7.Quality Assurance (QA) Team
 
 ### Description:  
 The QA team is responsible for testing the platform to ensure it meets the required standards of quality, performance, and reliability. They conduct various tests to identify and fix issues before the product's release.
@@ -82,7 +74,7 @@ The QA team is responsible for testing the platform to ensure it meets the requi
 ### Interest: 
 The QA team is interested in delivering a defect-free, high-quality product. They aim to ensure the platform performs as expected and provides a seamless user experience. Their goal is to identify potential issues early and ensure the system's robustness and reliability.
 
-## 9.Operations and IT Support
+## 8.Operations and IT Support
 
 ### Description:  
 The operations and IT support team manage the deployment, maintenance, and technical support of the "WORTHIFY.ME" platform. They ensure the platform's infrastructure is reliable and scalable.
@@ -93,5 +85,5 @@ Their interest lies in ensuring the platform operates smoothly and efficiently. 
 This comprehensive stakeholder analysis highlights the various individuals and groups involved in the "WORTHIFY.ME: Salary Predictor" project, their roles, and their interests. Each stakeholder plays a critical role in ensuring the project's success and the delivery of a valuable, high-quality product.
 
 
-## 10. IEEE Guidelines
+## 9. IEEE Guidelines
 The adherence to IEEE (Institute of Electrical and Electronics Engineers) guidelines, especially concerning software design, system architecture, and data handling. IEEE guidelines provide a framework for industry best practices, offering structured approaches to software and systems develop
