@@ -34,7 +34,7 @@ Their interest lies in leveraging their technical skills to create a robust and 
 ## 3. End Users
 
 ### Description: 
-End users include job seekers, career changers, employers, and HR professionals who utilize the "WORTHIFY.ME" platform for salary predictions and trend analysis.
+End users include job seekers, employers, and HR professionals who utilize the "WORTHIFY.ME" platform for salary predictions and trend analysis.
 
 ## Chart of End Users for "WORTHIFY.ME" Platform
 
@@ -43,7 +43,6 @@ End users include job seekers, career changers, employers, and HR professionals 
 | **User Type**         | **Description**                                                                 | **Primary Use Cases**                                      |
 |-----------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|
 | **Job Seekers**       | Individuals actively looking for new job opportunities.                         | - Predict expected salary for desired job roles.<br>- Compare salary offers from different employers.<br>- Understand salary trends based on location, experience, and education. |
-| **Career Changers**   | Professionals looking to switch career paths or industries.                     | - Assess potential salary in a new industry or role.<br>- Analyze how education and experience transfer to new career paths.<br>- Make informed decisions about career transitions.  |
 | **Employers**         | Organizations and companies hiring new employees.                               | - Set competitive salary offers to attract top talent.<br>- Benchmark salaries against industry standards.<br>- Plan budget for new hires based on predicted salaries.                |
 | **HR Professionals**  | Human Resources staff responsible for recruitment and compensation management.  | - Conduct salary surveys and analysis.<br>- Develop compensation strategies.<br>- Ensure fair and competitive salary structures within the organization.                       |
 
