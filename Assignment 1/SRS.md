@@ -90,7 +90,7 @@ predictions. Moreover, its "Explore" function visualizes comprehensive salary
 trends based on real-world data, delivering invaluable insights to users, be they
 professionals or organizations. Current available solutions for salary prediction and exploration frequently fall short in several key aspects. Many rely on outdated or generic data sources that do not adequately reflect the rapidly changing job market dynamics. As a result, the predictions generated often lack accuracy and relevance. Additionally, user-friendliness and accessibility are often compromised, making it challenging for non-technical users to obtain actionable insights. 
 
-The "WORTHIFY.ME" projectrecognizes and addresses these gaps by leveraging the latest data from the StackOverflow Developers Survey 2023, coupled with a user-friendly interface for anintuitive experience. This project aspires to bridge the disparity between available
+The "WORTHIFY.ME" project recognizes and addresses these gaps by leveraging the latest data from the StackOverflow Developers Survey 2023, coupled with a user-friendly interface for anintuitive experience. This project aspires to bridge the disparity between available
 solutions and the practical needs of individuals and organizations in the modern
 workforce.
 
