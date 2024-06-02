@@ -3,11 +3,17 @@
 ## Table of Content
 
 - [1. Project Manager](#2-Project-Manager)
+
 - [2. Development Team](#3-Development-Team)
+
 - [3. End Users](#4-End-Users)
+
 - [4. Data Providers](#5-Data-Providers)
+
 - [5. Product Owners](#6-Product-Owners)
+
 - [6. Quality Assurance (QA) Team](#7-Quality-Assurance-(QA)-Team)
+
 - [7. Operations and IT Support](#8-Operations-and-IT-Support)
 
 
